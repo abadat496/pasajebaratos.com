@@ -13,218 +13,124 @@ const Home = () => {
       <SearchForm reset={true} backGroundImage={"/slider.jpg"} />
 
      
-      
+      <div className="whychose pt-5 pb-5">
       <div className="container">
-          <div className="row explore-main mt-5">
+      <div className="row explore-main">
+      <div className="col-sm-12 text-center">
+       <h2>¿Por qué elegir Pasajes Baratos?</h2>
+        <p className="mb-4">Prepárese para explorar los diversos lugares del mundo reservando vuelos económicos con nosotros.</p>
+        </div>
 
         <div className="col-md-3 mb-4">
         <div className="ccontent">
        <span className="why_chose">
-        <LazyImage width={80} height={80} src="/scure-1.png" /></span>
-        <h3>Ahorrar dinero</h3>
-        <p>Ahorro de dinero y ofertas especiales llamando <a href="{`tel:${phoneNumber}`}">{phoneNumber}</a></p></div></div>
+       <i class="fa fa-usd fs-1"></i></span>
+        <h3>Buscar y guardar</h3>
+        <p>Al dividir los costos de millas de operadores de una sola vez, puede tomar una medida increíble y ahorrar dinero.</p></div></div>
 
 				<div className="col-md-3 mb-4">
         <div className="ccontent">
         <span className="why_chose">
-        <LazyImage width={80} height={80} src="/price-icon-new.png" /></span>
-        <h3>Promesa de igualación de precios</h3>
-        <p>Encuentre nuestro precio más bajo a destinos en todo el mundo, ¡garantizado!</p></div></div>
+        <i class="fa fa-umbrella fs-1"></i></span>
+        <h3>Reserva Rápida</h3>
+        <p>La forma más rápida y directa de gestionar su próximo vuelo es utilizando nuestro dispositivo de búsqueda.</p></div></div>
 
 				<div className="col-md-3 mb-4">
         <div className="ccontent">
         <span className="why_chose">
-        <LazyImage width={80} height={80} src="/easy-icon.png" /></span>
-        <h3>Fácil de usar</h3>
-        <p>Desde que reserva su vuelo hasta que completa su viaje.</p></div></div>
+        <i class="fa fa-suitcase fs-1"></i></span>
+        <h3>Servicio de atención al cliente disponible las 24 horas</h3>
+        <p>DNuestro equipo está aquí para ayudarle en cualquier momento del día.</p></div></div>
 
         <div className="col-md-3 mb-4">
         <div className="ccontent">
         <span className="why_chose">
-        <LazyImage width={80} height={80} src="/like-icon.png" /></span>
-        <h3>Ofertas en vivo</h3>
-        <p>A la gente le encantan nuestras ofertas, ¡a ti también te encantarán! Síguenos en las redes sociales</p></div></div>
+        <i class="fa fa-headphones fs-1"></i></span>
+        <h3>Reserva sencilla</h3>
+        <p>Ofrecemos servicios de reserva de vuelos fáciles y agradables con atractivos descuentos.</p></div></div>
                       
-               
-                </div>
-             
-            
+        </div>
+        </div>
+        </div>
+
+
+
+
+      <div className="hotelmain ">
+      <div className="container">
+        <div className="row explore-main">
+          <div className="col-sm-12 text-center">
+            <h2>Destinos Tanto Nacionales como en el Extranjero</h2>
+            <p className="mb-4">Encuentre los precios más baratos para todos los vuelos nacionales e internacionales mientras explora una variedad de lugares exóticos.</p>
+          </div>
+
+          <div className="col-6 col-sm-3 mb-4">
+            <div className="hotel">
+          <LazyImage
+            src={"/c-8.png"} 
+            className="card-LazyImage"
+            layout="responsive"
+            />
+            <h2 className="text-center">London</h2>
+            </div>
+          </div>
+
+          <div className="col-6 col-sm-3 mb-4">
+            <div className="hotel">
+          <LazyImage
+            src={"/c-7.png"} 
+            className="card-LazyImage"
+            layout="responsive"
+            />
+            <h2 className="text-center">Dubai</h2>
+            </div>
+          </div>
+
+
+          <div className="col-6 col-sm-3 mb-4">
+            <div className="hotel">
+          <LazyImage
+            src={"/c-1.png"} 
+            className="card-LazyImage"
+            layout="responsive"
+            />
+            <h2 className="text-center">Los Angeles</h2>
+            </div>
           </div>
 
 
 
-      <div className="hotelmain mt-4">
+          <div className="col-6 col-sm-3 mb-4">
+            <div className="hotel">
+          <LazyImage
+            src={"/c-2.png"} 
+            className="card-LazyImage"
+            layout="responsive"
+            />
+            <h2 className="text-center">France</h2>
+            </div>
+          </div>
+
+
+          </div>
+          </div>
+          </div>
+
+
+
+      <div className="center-bg">
       <div className="container">
         <div className="row explore-main">
           <div className="col-sm-12">
-            <h2>Hoteles destacados</h2>
-            <p className="mb-4">Estos atractivos destinos han sido elegidos solo para usted.</p>
-          </div>
+            <h3>Sobre Nosotros - Pasajebaratos.com</h3>
+            <p className="mb-4 color-white">Pasajebaratos destaca como una entidad destacada en el ámbito de viajes y hotelería en Asia. Nuestra misión es facilitar al máximo todas las necesidades relacionadas con los viajes, gracias a nuestras sólidas alianzas comerciales y tecnología de vanguardia. Nos hemos convertido en el portal en línea de mayor crecimiento, proporcionando soluciones de alojamiento excepcionales que ofrecen a nuestros clientes una amplia variedad de ofertas en vuelos y hoteles.<br></br><br></br>
 
-          <div className="col-sm-3 mb-4">
-            <div className="hotel">
-          <LazyImage
-            src={"/ho1.jpg"} 
-            className="card-LazyImage"
-            layout="responsive"
-            />
-            <p className="text-center"><strong>Sheraton Vistana Resort Villas, Lake Buena Vista/Orlando</strong><br></br> <i className="fa-solid fa-location-dot"></i> 8800 Vistana Centre Drive, Orlando, FL - Disney Area - Lake Buena Vista East</p>
+Con un equipo operativo las 24 horas del día, los 7 días de la semana, nos esforzamos por superar tus expectativas en términos de alojamiento y actividades de ocio, adaptándonos a tu presupuesto y horario. Reconocemos que viajar es una experiencia ineludible en la actualidad, ya sea por motivos laborales, investigativos, compromisos u ocio.
+            </p>
+          </div>
+    
             </div>
           </div>
-
-          <div className="col-sm-3 mb-4">
-            <div className="hotel">
-          <LazyImage
-            src={"/ho2.jpg"} 
-            className="card-LazyImage"
-            layout="responsive"
-            />
-            <p className="text-center"><strong>DoubleTree by Hilton Hotel Orlando at SeaWorld</strong><br></br> <i className="fa-solid fa-location-dot"></i> 10100 International Drive, Orlando, FL - Intl. Drive - Convention Center - Sea World</p>
-            </div>
-          </div>
-
-
-          <div className="col-sm-3 mb-4">
-            <div className="hotel">
-          <LazyImage
-            src={"/ho3.jpg"} 
-            className="card-LazyImage"
-            layout="responsive"
-            />
-            <p className="text-center"><strong>Holiday Inn Resort Orlando Suites - Waterpark</strong><br></br> <i className="fa-solid fa-location-dot"></i> 14500 Continental Gateway, Orlando, FL - Disney Area - Lake Buena Vista East</p>
-            </div>
-          </div>
-
-
-
-          <div className="col-sm-3 mb-4">
-            <div className="hotel">
-          <LazyImage
-            src={"/ho4.jpg"} 
-            className="card-LazyImage"
-            layout="responsive"
-            />
-            <p className="text-center"><strong>Super 8 by Wyndham Orlando International Drive</strong><br></br> <i className="fa-solid fa-location-dot"></i> 5900 American Way, Orlando, FL - Universal Orlando Area - Intl. Drive North</p>
-            </div>
-          </div>
-
-
-          </div>
-          </div>
-          </div>
-
-
-
-      <div className="container-xl">
-        <div className="row explore-main mt-5">
-          <div className="col-sm-12">
-            <h2>Tours populares</h2>
-            <p className="mb-4">Hemos seleccionado algunas de las mejores ubicaciones en todo el mundo para usted.</p>
-          </div>
-
-            <div className="col-sm-4 flirightbox mb-4">
-                <a href="#">
-                  <div className="card">
-                    <LazyImage
-                      src="/d1.jpg"
-                      alt="French Riviera"
-                      layout="responsive"
-                    />
-                    <div className="card-img-overlay">
-                    <h6 className="card-title">Spectaculars Of The Nile 3 Nights</h6>
-                    <h5>Nile Egypt</h5>
-                    </div>
-                  </div>
-                </a>
-              </div>
-
-              <div className="col-sm-4 flirightbox mb-4">
-                <a href="#">
-                  <div className="card">
-                    <LazyImage
-                      src="/d2.jpg"
-                      alt="French Riviera"
-                      layout="responsive"
-                    />
-                    <div className="card-img-overlay">
-                    <h6 className="card-title">6 Days Around Thailand</h6>
-                    <h5>Thailand</h5>
-                    </div>
-                  </div>
-                </a>
-              </div>
-
-              <div className="col-sm-4 flirightbox mb-4">
-                <a href="#">
-                  <div className="card">
-                    <LazyImage
-                      src="/d3.jpg"
-                      className="card-LazyImage"
-                      alt="Dubai"
-                      layout="responsive"
-                    />
-                    <div className="card-img-overlay">
-                    <h6 className="card-title">Sydney and Bondi Beach Explorer</h6>
-                    <h5>Sydney</h5>
-                    </div>
-                  </div>
-                </a>
-              </div>
-
-
-              <div className="col-sm-4 flirightbox mb-4">
-                <a href="#">
-                  <div className="card">
-                    <LazyImage
-                      src="/d4.jpg"
-                      className="card-LazyImage"
-                      alt="Dubai"
-                      layout="responsive"
-                    />
-                    <div className="card-img-overlay">
-                    <h6 className="card-title">Dubai & the Desert - Dubai Combo Package </h6>
-                      <h5>Dubai</h5>
-                    </div>
-                  </div>
-                </a>
-              </div>
-
-             
-
-              <div className="col-sm-4 flirightbox mb-4">
-                <a href="#">
-                  <div className="card">
-                    <LazyImage
-                      src="/d5.jpg"
-                      className="card-LazyImage"
-                      alt="Dubai"
-                      layout="responsive"
-                    />
-                    <div className="card-img-overlay">
-                    <h6 className="card-title">Planeta Hollywood Resort </h6>
-                      <h5>Hollywood</h5>
-                    </div>
-                  </div>
-                </a>
-              </div>
-
-              <div className="col-sm-4 flirightbox mb-4">
-                <a href="#">
-                  <div className="card"> 
-                    <LazyImage
-                      src="/d6.jpg"
-                      className="card-LazyImage"
-                      alt="Dubai"
-                      layout="responsive"
-                    />
-                    <div className="card-img-overlay">
-                    <h6 className="card-title">Stunning Dubai </h6>
-                      <h5>Dubai</h5>
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
           </div>
       
 
@@ -232,21 +138,32 @@ const Home = () => {
 
         <section className="newsubs">
       <div className="container">
-      <div className="row">
-         <div className="col-md-4">
-        <div className="ccontent">
-       <span className="_sprite">
-        <LazyImage width={80} height={80} src="/ticket-icon-1.png" /></span><h2>Con ofertas atractivas, ofrecemos reservas de vuelos sencillas y cómodas.</h2></div></div>
+      <div className="row explore-main">
+      <div className="col-sm-12 text-center">
+       <h2>Comentarios de los clientes</h2>
+       <p className="mb-4">Con nuestras ofertas de vuelos exclusivas, es hora de llegar a los lugares de tus sueños.</p>
+          </div>
 
-				<div className="col-md-4 mb-4">
+         <div className="col-md-4 mt-2">
         <div className="ccontent">
-        <span className="_sprite">
-        <LazyImage width={80} height={80} src="/deal-icon.png" /></span><h2>Prometemos reservas de hotel, paquetes de vacaciones y boletos de avión económicos.</h2></div></div>
+        <p>Descubrí que el sitio era muy fácil de usar y solicité mis vacaciones con ellos cuando llegaron a acuerdos sobre precios de aerolíneas. Estaba interesado y volvería a su sitio en el futuro.</p>
+        <p><strong>David</strong> : Los Angeles</p>
+        </div>
+        </div>
 
-				<div className="col-md-4 mb-4">
+        <div className="col-md-4 mt-2">
         <div className="ccontent">
-        <span className="_sprite">
-        <LazyImage width={80} height={80} src="/service-icon.png" /></span><h2>Obtén ayuda en todo momento para cualquier duda relacionada con viajes. Nos encanta ayudarte.</h2></div></div>
+        <p>&quot;Como viajero habitual, he visto una buena cantidad de ofertas especiales en pasajes aéreos, pero nada iguala los increíbles ahorros que acabo de encontrar en Travelocity.</p>
+        <p><strong>Charlotte</strong> : France</p>
+        </div>
+        </div>
+
+        <div className="col-md-4 mt-2">
+        <div className="ccontent">
+        <p>¡Qué aventura tan increíble que he experimentado jamás! Una cena notable en el gol que nos permitió probar la fuerza de cada gol nos destruyó.</p>
+        <p><strong>Ebadat Borna</strong> : New York</p>
+        </div>
+        </div>
                       
                
                 </div>
@@ -255,17 +172,6 @@ const Home = () => {
       
  
 
-         <div className="container-xl">
-        <div className="row explore-main mt-5">
-          <div className="col-sm-12">
-            <h2 className="mb-4">Sobre Nosotros</h2>
-            <p>boletosyofertas es una parte reconocida del sector de viajes y hotelería de Asia. Nuestro motivo es hacer que todas sus necesidades relacionadas con los viajes sean lo más fluidas posible a través de nuestros socios comerciales y tecnología de clase mundial. Somos el portal en línea de más rápido crecimiento que brinda increíbles soluciones de alojamiento que ofrecen a nuestros clientes una amplia selección de ofertas de vuelos y hoteles. Nuestro equipo trabaja 24 horas al día, 7 días a la semana para satisfacer tus expectativas en cuanto a hoteles y otras actividades de ocio que se ajusten a tu presupuesto y se ajusten al horario indicado. Entendemos que hoy en día viajar es algo que nadie puede evitar, ya sea por trabajo, investigación, obligaciones o diversión.</p>
-          </div>
-
-      
-
-          </div>
-          </div>
 
 
           

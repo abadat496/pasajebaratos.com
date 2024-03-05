@@ -63,10 +63,10 @@ const Refund = () => {
     <li>Si el proveedor aprueba el reembolso, el crédito puede tardar entre 60 y 90 días en aparecer en el estado de cuenta del pasajero.</li>
 </ul>
 
-<h4>boletosyofertas de Servicio Posterior a la Emisión:</h4>
+<h4>pasajebaratos de Servicio Posterior a la Emisión:</h4>
 <ul>
-    <li>Además de las boletosyofertas de reembolso de proveedores, Explore Nut Travels puede cobrar boletosyofertas por servicio posterior a la emisión del boleto, solo aplicables si el proveedor autoriza un reembolso o concede una exención.</li>
-    <li>No se aplican a las boletosyofertas originales de registro o reserva.</li>
+    <li>Además de las pasajebaratos de reembolso de proveedores, Explore Nut Travels puede cobrar pasajebaratos por servicio posterior a la emisión del boleto, solo aplicables si el proveedor autoriza un reembolso o concede una exención.</li>
+    <li>No se aplican a las pasajebaratos originales de registro o reserva.</li>
 </ul>
 
 <p>Esta política garantiza transparencia y claridad en el proceso de cancelación y reembolso, priorizando el cumplimiento de las normas establecidas por los proveedores.</p>

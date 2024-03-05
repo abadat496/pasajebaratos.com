@@ -14,13 +14,18 @@ const Footer = ({ langData }) => {
         <div className="container-lg">
           <div className="row">
 
-          <div className="col-12 col-sm-6 col-lg-12 col-xl-12 top-margin">
-            <h6>Sobre Nosotras</h6>
-            <p>boletosyofertas ofrece una solución completa para reservar viajes en línea a destinos mundialmente conocidos. Calculará las tarifas locales más convenientes para que todas las empresas de transporte recojan los datos más recientes sobre precauciones y admisión aérea por teléfono. Nuestro objetivo es brindarle los mejores cursos de acción de viaje al mejor precio. Debido a nuestra amplia organización de operadores, querrá reservar sus viajes de recreación. Para brindarle la mejor valoración de viajes abiertos en línea, el profesorado de Amigos Vuelan está siempre dispuesto an ayudarlo y guiarlo a través del proceso de compra de boletos. Suponiendo que utilice nuestras increíbles oficinas y ayuda, llegará a tiempo.</p>
-          
+          <div className="col-12 col-sm-12 col-lg-6 col-xl-6 mt-4 top-margin">
+              <h6>{langData?.Disclaimer} :</h6>
+              <p>{langData?.Disclaimer1}
+                <br></br>
+                {langData?.Disclaimer2}
+              </p>
+            
             </div>
 
-            <div className="col-12 col-sm-6 col-lg-12 col-xl-12 top-margin">
+
+
+            <div className="col-12 col-sm-6 col-lg-3 col-xl-3 top-margin">
               <h6>{langData?.quickLink}</h6>
               <ul>
                 {langData?.quickLinks?.map((link, index) => (
@@ -33,10 +38,13 @@ const Footer = ({ langData }) => {
             </div>
 
 
-            <div className="col-12 col-sm-6 col-lg-12 col-xl-12 top-margin">
+            <div className="col-12 col-sm-6 col-lg-3 col-xl-3 top-margin">
+            <h6>{langData?.contactInfo}</h6>
               <ul>
                  <li><a href={`tel:${phoneNumber}`}><i className="fa-solid fa-phone-volume"></i> {phoneNumber}</a></li>
                  <li><a href="mailto:Support@flyhelpdesk.com"><i className="fa-regular fa-envelope"></i> Support@flyhelpdesk.com</a></li>
+
+                 <li><i className="fa-solid fa-map-location-dot"></i> House 326-C First Floor Okhla main road South Delhi , New Delhi 110025</li>
               </ul>
               
             </div>
@@ -44,15 +52,7 @@ const Footer = ({ langData }) => {
            
                
 
-            <div className="col-12 col-sm-12 col-lg-12 col-xl-12 mt-4 top-margin">
-              <h6>{langData?.Disclaimer} :</h6>
-              <p>{langData?.Disclaimer1}
-                <br></br>
-                {langData?.Disclaimer2}
-              </p>
-              
-            
-            </div>
+           
 
             <div className="col-12 col-lg-4">
             <div className="payment_icon">
@@ -143,7 +143,7 @@ const Footer = ({ langData }) => {
         <div className="container-lg footer-border">
           <div className="row">
             <div className="col-12 col-lg-12">
-              <p>Derechos de autor &copy; 2024 boletosyofertas.com. Reservados todos los derechos. (  Skyflydeals Private Limited )</p>
+              <p>Derechos de autor &copy; 2024 pasajebaratos.com. Reservados todos los derechos. (  Skyflydeals Private Limited )</p>
             </div>  
             
 
@@ -155,8 +155,8 @@ const Footer = ({ langData }) => {
 
       <div className="fixed-bottom call-bg d-block d-md-block d-lg-none">
         <Link href={`tel:${phoneNumber}`} >
-          <p>Llama ahora</p>
-          <h4 className="blink"> {phoneNumber}</h4>
+          {/* <p>Llama ahora</p> */}
+          <h4><i class="fa-solid fa-phone-volume iconleft blink"></i> {phoneNumber}</h4>
         </Link>
       </div>
 

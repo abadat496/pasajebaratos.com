@@ -81,8 +81,13 @@ const Contact = () => {
          
           <div className="row mt-4">
 
-          <div className="col-12 col-sm-12 col-md-6 col-lg-12 col-xl-12 cont-right">
-              <ul>
+
+          <div className="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mb-5">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2831.167704831204!2d-106.95752532392379!3d44.79777077107087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5335fabc2a655555%3A0x3265c73ab4e065e!2s30%20N%20Gould%20St%20STE%20ST%20R%2C%20Sheridan%2C%20WY%2082801%2C%20USA!5e0!3m2!1sen!2sin!4v1707224815874!5m2!1sen!2sin" style={{width:'100%', height:'400px'}}></iframe>
+</div>
+
+          <div className="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 cont-right">
+               <ul>
                 <li>
                   <div className="cont-icon">
 
@@ -120,10 +125,10 @@ const Contact = () => {
               </ul>
             </div>
 
-          <div className="col-12 col-sm-12 col-md-6 col-lg-12 col-xl-12 cont-left mb-5">
+          <div className="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 cont-left mb-5">
               <h5>Contacta con nosotras</h5>
               <form className="row g-3 mt-3" onSubmit={handleSubmit}>
-                <div className="col-md-3">
+                <div className="col-md-6">
                   <input
                     type="text"
                     className="form-control"
@@ -133,7 +138,7 @@ const Contact = () => {
                     onChange={handleChange}
                   />
                 </div>
-                <div className="col-md-3">
+                <div className="col-md-6">
                   <input
                     type="email"
                     className="form-control"
@@ -143,7 +148,7 @@ const Contact = () => {
                     onChange={handleChange}
                   />
                 </div>
-                <div className="col-md-3">
+                <div className="col-md-6">
                   <input
                     type="tel"
                     className="form-control"
@@ -153,7 +158,7 @@ const Contact = () => {
                     onChange={handleChange}
                   />
                 </div>
-                <div className="col-md-3">
+                <div className="col-md-6">
                   <input
                     type="text"
                     className="form-control"
@@ -186,16 +191,14 @@ const Contact = () => {
               </form>
             </div>
 
-            
+         
           
 
             
           </div>
         </div>
       </div>
-
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2831.167704831204!2d-106.95752532392379!3d44.79777077107087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5335fabc2a655555%3A0x3265c73ab4e065e!2s30%20N%20Gould%20St%20STE%20ST%20R%2C%20Sheridan%2C%20WY%2082801%2C%20USA!5e0!3m2!1sen!2sin!4v1707224815874!5m2!1sen!2sin" style={{width:'100%', height:'400px'}}></iframe>
-
+      
 
 
     </>

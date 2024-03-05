@@ -141,14 +141,14 @@ const SearchForm = ({
         className="container-fluid banner-bg"
         style={{ backgroundImage: `url(${backGroundImage})` }}
       >
-        <div className="container searh-engain">
+        <div className=" searh-engain">
           <div className="row">
             <div className="marg-top">
               <h1>
                 {title ||
-                  "Vuela con Boletos Barato"}
+                  "Llama y consigue un 70% de descuento"}
               </h1>
-              <h4 className="mt-3 mb-3">Llama y consigue un 70% de descuento</h4>
+              {/* <h4 className="mt-3 mb-3">Llama y consigue un 70% de descuento</h4> */}
               
             </div>
 
@@ -212,7 +212,7 @@ const SearchForm = ({
                         classNameName=""
                         id=""
                         alt=""
-                        src={`/take-off.png`}
+                        src={`/location.png`}
                       /></div>
                       <AutoCompleteInput
                         name="origin"
@@ -229,7 +229,7 @@ const SearchForm = ({
                         classNameName=""
                         id=""
                         alt=""
-                        src={`/landing.png`}
+                        src={`/plane_down.png`}
                       /></div>
                       <AutoCompleteInput
                         name="destination"
@@ -246,7 +246,7 @@ const SearchForm = ({
                         classNameName=""
                         id=""
                         alt=""
-                        src={`/appointment.png`}
+                        src={`/dateoick.png`}
                       /></div>
                     <input
                       type="date"
@@ -266,7 +266,7 @@ const SearchForm = ({
                         classNameName=""
                         id=""
                         alt=""
-                        src={`/appointment.png`}
+                        src={`/dateoick.png`}
                       /></div>
                       <input
                         type="date"
@@ -286,7 +286,7 @@ const SearchForm = ({
                         classNameName=""
                         id=""
                         alt=""
-                        src={`/seat.png`}
+                        src={`/passenger_iim.png`}
                       /></div>
                       <ClassSelection
                         onSelectClass={(key, val) => handleSelect(val, key)}

@@ -52,10 +52,13 @@ const Header = ({langData}) => {
 
 <div className="fixed call-bg d-block d-md-block d-lg-none">
         <Link href={`tel:${phoneNumber}`} >
-          <p>Llama ahora</p>
-          <h4> {phoneNumber}</h4>
+          {/* <p>Llama ahora</p> */}
+          <h4><i class="fa-solid fa-phone-volume iconleft"></i>  {phoneNumber}</h4>
         </Link>
       </div>
+
+
+      
         <nav
           className="navbar navbar-expand-lg navbar-light bg-white"
           aria-label="Eleventh navbar example"
@@ -189,7 +192,7 @@ const Header = ({langData}) => {
                     <h5 className="m-0 p-0">
                       <Link href={`tel:${phoneNumber}`}><i className="fa-solid fa-headset"></i> {phoneNumber}</Link>
                     </h5>
-                    <p className="blink">Disponible ahora</p>
+                   
                   </li>
                 </ul>
               </div>
