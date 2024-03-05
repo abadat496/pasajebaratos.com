@@ -6,7 +6,7 @@ export const amadeusClientSecret = "XYcA6WWVZTuAoJqS";
 export const smtp_usename = "Support@flyhelpdesk.com";
 export const smtp_password = "vqvvaqcznwxdhdnm";
 export const smtp_type = "Gmail";
-export const from_Name = "boletosyofertas";
+export const from_Name = "pasajebaratos";
 export const from_email = "Support@flyhelpdesk.com";
 
 //Recipants email
