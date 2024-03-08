@@ -13,7 +13,7 @@ const Undercuttingbanner = () => {
   };
 
   useEffect(() => {
-    setTimeout(() => {setShowUndercutting(true);}, 8000)
+    setTimeout(() => {setShowUndercutting(true);}, 3000)
   }, [])
 
   return (

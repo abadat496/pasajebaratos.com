@@ -2396,7 +2396,7 @@ label.form-check-label {
 .hotel h2 {font-size:18px; font-weight: bold; color: #333; line-height: 40px; margin: 0px; text-transform: uppercase;}
 
 .contentCallus i {
-  background: #f6bdbe;
+  background: #ffbc92;
   padding: 8px;
   font-size: 23px;
   border-radius: 4px;
@@ -2445,8 +2445,8 @@ label.form-check-label {
   width: 80%;
 }
 .custompopup h4 {
-  font-size: clamp(1rem, 0.8692rem + 0.7477vw, 1.5rem);
-  /* margin-top: 10px; */
+  font-size: 20px;
+  color: #004aad;
 }
 .paratextPopup {
   font-size: 13px;

@@ -30,7 +30,7 @@ function MyApp({ Component, pageProps }) {
       <Component {...pageProps} />
       <Footer langData={langData} />
       <SearchModal />
-      {/* <Undercuttingbanner/> */}
+      <Undercuttingbanner/>
       <GoogleTag />
     </DataProvider>
   );
