@@ -345,9 +345,11 @@ span {
 }
 
 .searh-engain {
-   position: relative;
+  position: relative;
   z-index: 1000;
   top: 0px;
+  width: 70%;
+  margin: auto;
 }
 
 .ml-2 {
@@ -2682,6 +2684,7 @@ label.form-check-label {
     padding-top: 10px!important;
     padding-bottom: 0px!important;
     top: auto;
+    width: 100%;
   }
 
   .domepack ul li {
