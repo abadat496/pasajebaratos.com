@@ -19,8 +19,9 @@ const GoogleTag = () => {
       // gtag("config", "G-L7W0F3WF5V");
       gtag("config", "AW-16451480682");
 
-      gtag('config', 'AW-16451480682/aMQ4CL_AhZIZEOrY1qQ9', {
-        'phone_conversion_number': '+1 (855) 786-1050'
+      gtag('config', 'AW-16484054720/0Q_-CIK0v5sZEMDtmrQ9', {
+        'phone_conversion_number': '+1 855 585 2324'
+    
       });
     };
 
