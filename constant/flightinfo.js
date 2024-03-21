@@ -77,176 +77,136 @@ export const airlinesDetails = {
     ],
   },
 
-  // "jetblue-airlines": {
-  //   title: "JetBlue Airways",
-  //   description:
-  //     "JetBlue Airways Corporation, recognized as JetBlue or sometimes JetBlue Airlines, is an American low-cost airline and the fifth leading airline in the United States. The airline is based at John F. Kennedy International Airport and headquartered in the Long Island City region of the New York City borough of Queens. JetBlue Airways has a four-star Skytrax award rating, making it one of two carriers in the United States beside Virgin America.",
-  //   sections: [
-  //     {
-  //       title: "SERVICES & AMENITIES",
-  //       description:
-  //         "The amenities and services offered by JetBlue Airlines flights reservations for its passengers are extremely enjoyed by travelers with complimentary drinks, snacks, Wi-Fi, amazing entertainment and open legroom in coach. The airline offers passengers with SiriusXM and DIRECTV which comprises of unlimited programs. The passengers who have selected the Mint Premium during their flight reservation can gain comfortable seating space, luxurious kit and delicious dining menu.\n\nAlong with it, JetBlue Airlines Flights reservations also offer alcoholic beverages to its passengers on board. The provided in-flight Wi-Fi facility at every seat of the flights allows the users to stay associated to their dear ones. Booking flights with JetBlue Airline enhances the on the whole experience of the passengers flying with the airlines.",
-  //     },
-  //     {
-  //       title: "CLASSES OF TRAVEL",
-  //       description:
-  //         "JetBlue Airways flight tickets offer its passengers with two sections of classes of travel. Check out the following classes of travel in JetBlue Airways.\nEconomic Class\nBusiness Class",
-  //     },
-  //     {
-  //       title: "BAGGAGE POLICY",
-  //       description:
-  //         'Carry-On Baggage\nThe hand baggage or Carry-on can be brought onboard as 1 individual item (purse, briefcase, laptop, etc.) plus 1 carry-on bag can be taken along. All of the carry-on bags should go beyond 22 L (or 55.88 cm) x 14 W (35.56 cm) x 9 H (22.86 cm), as well as wheels/handles, on all of our aircraft types.\n\nChecked Baggage\nThe passengers who have purchased "Blue" are to pay an extra charge as valid by the airlines and they are not permitted to any free check-in baggage allowance. The "Blur Plus" passengers are allowed to carry one baggage weighing not more than 50 pounds and "Blue Flex/Mint" holders are eligible to carry two bags weighing not more than 50 pounds. The dimension of each baggage must not exceed 62" (157.48 cm). In case of any doubt, contact JetBlue Airways customer service team.',
-  //     },
-  //     {
-  //       title: "CHECK-IN INFORMATION",
-  //       description:
-  //         'Online Check-In\nThe JetBlue Airways Reservations offers it passengers both facility of mobile and online check in. The service can be found on the JetBlue website, beneath "Online Check-in" and is available 24 hours prior to the scheduled time of departure. For further assistance required, contact JetBlue Airways customer service executive.\n\nAirport Check-In\nIf passengers have not checked in via online medium for their JetBlue Airlines flights tickets and making their JetBlue Airways Reservations, they require check-in at the airport via the self-service check-in kiosks.',
-  //     },
-  //   ],
-  // },
+  "cheap-flights-to-mexico-mx": {
+    title: "Vuelos Baratos A México",
+    description:
+      "¡Bienvenido a México, un país de civilizaciones antiguas, cultura vibrante y paisajes impresionantes! México tiene mucho para ofrecer, ya sea que esté explorando las ruinas de Chichén Itzá, descansando en las hermosas playas de Cancún o disfrutando de la auténtica cocina mexicana. En esta guía completa, hablaremos sobre todo lo que necesita saber sobre usar pasajebaratos.com como su socio de viajes confiable para reservar vuelos a México.",
+    sections: [
+      {
+        title: "¿Por qué se debe elegir México?",
+        description:
+          "El atractivo de México radica en su rica historia, cultura diversa y belleza natural.",
+      },
+      {
+        title: "Maravillas históricas",
+        description:
+          "Explore las ruinas mayas y aztecas como Chichén Itzá, Teotihuacán y Palenque, donde podrá maravillarse con la intrincada arquitectura y aprender sobre las civilizaciones precolombinas de México.",
+      },
+      {
+        title: "Risco cultural",
+        description:
+          'Con visitas a vibrantes mercados, festivales vibrantes y shows de danza tradicional que reflejan las raíces indígenas y la influencia española, puede sumergirse en la vibrante cultura de México.',
+      },
+      {
+        title: "El mejor momento para reservar vuelos a México",
+        description:
+          'Al reservar vuelos a México, es importante tomar tiempo para garantizar las mejores tarifas y disponibilidad. Consideraciones estacionales: México tiene dos temporadas principales: la temporada seca (de noviembre a abril) y la temporada de lluvias (de mayo a octubre). El mejor momento para visitar depende de sus preferencias, ya sea que busque un clima soleado para explorar la playa o un clima más fresco para explorar las atracciones dentro del país.',
+      },
+    ],
+  },
 
-  // "southwest-airlines": {
-  //   title: "Southwest Airlines",
-  //   description:
-  //     "Headquartered in Dallas, Texas, Southwest Airlines is a major low-cost United States airline. The airline today flies to numerous destinations which includes some of the major cities such as Chicago, Washington, Las Vegas, Dallas, Mexico City etc. Customers making Southwest Airlines reservation have always praised the airline and its offered services. Both domestically and internationally the airline flies to 100 different destinations. The hub airport of the airline is Dallas Love Field, located 6 miles outside Dallas city. Also, recently the airline has announced that in winter 2020, it will commence its new route, from Denver and Steamboat Springs.",
-  //   sections: [
-  //     {
-  //       title: "TRAVEL CLASS",
-  //       description:
-  //         "Southwest Airlines offers its customers with two different classes, Economy and Business Class. As for now, the airline does not offer its passengers with Premium Economy and First class. Although, customers can easily book their tickets by calling Southwest Airlines Customer Care, and can choose the classes to fly with as per their convenience and comfort. The seats of the economy class range from 31-33-inch pitch and 17-17.8 inches wide with 2 inches of recline and adjustable headrests. The seats of its business class are same as its economy class.",
-  //     },
-  //     {
-  //       title: "BAGGAGE POLICY",
-  //       description:
-  //         "The airlines allow its passengers with carry-on and checked baggage facilities. Passengers flying with the airlines can carry one item per person. It is important to ensure that the baggage is not exceeding the set limits of 10 x 16 x 24 inches (24 x 40 x 60cm). Apart from this, a passenger can also carry a personal item with them as well such as a handbag, rucksack, laptop or a briefcase. In checked baggage passengers are allowed to take two items or bags for free. It is important to ensure that the weight of these bags is not more than 50lb per piece and they are fitting within in the overall dimensions of 157 cm (62 inches).",
-  //     },
-  //   ],
-  // },
+ 
 
-  // "united-airlines": {
-  //   title: "United Airlines",
-  //   description:
-  //     "United Airlines is the largest western airline with headquarters in Chicago, Illinois. The size of the fleet and the number of destinations make it the third largest airline in the world. Regional operations are conducted by independent carriers under the United Express brand name.",
-  //   sections: [
-  //     {
-  //       title: "Code-Sharing Agreement",
-  //       description:
-  //         "United Airlines has been a member of the Star Alliance since the organization was co-founded in 1997. And it has a code-sharing arrangement with the above-mentioned airlines:",
-  //       subsection: [
-  //         "Aer Lingus, Aeromar, Air Canada, Air China, Air India, Air Dolomiti, Air New Zealand, All Nippon Airways, Asiana Airlines, Austrian Airlines, Avianca, Azul Brazilian Airlines, Boutique Air, Brussels Airlines, Cape Air, Copa Airlines, Croatia Airline, EgyptAir, Ethiopian Airlines, Eurowing, EVA Air, Hawaiian Airlines, Island Air, LOT Polish Airlines, Lufthansa, Scandinavian Airline, Silver Airways, Singapore Airlines, South African Airways, Swiss International Air Line, TAP Air Portugal, and Turkish Airlines.",
-  //       ],
-  //     },
-  //     {
-  //       title: "Class Of Travel",
-  //       description:
-  //         "The airline shall make two forms of commercial class Reservations, as well as business and first class Reservations.",
-  //       subsection: [
-  //         {
-  //           title: "Easy Economy Class",
-  //           description:
-  //             "Easy Economy Class facilities include on-the-flight perks and equipment, such as food and drinks, Wi-Fi, and in-flight entertainment.",
-  //         },
-  //         {
-  //           title: "Premium Economy Class",
-  //           description:
-  //             "The Premium Economy Class accommodation provides all basic economy class facilities as well as extra leg rooms located at the front of the cabin.",
-  //         },
-  //         {
-  //           title: "United Business",
-  //           description:
-  //             "United Business passengers can have a more comfortable travel experience from check-in to baggage claims. Premier Access travel facilities mean that travelers in the Business Class can bypass the airport floor and instead use the designated airport check-in lanes, special screening lanes and Premier Access priority baggage handling. Travelers will enjoy incredible restaurant-quality deals and start-up strategies that have been preferred by famous chefs in the air.",
-  //         },
-  //         {
-  //           title: "First Class Reservation",
-  //           description:
-  //             "First Class Reservation allows you the benefit of over-protection and check-in with Premium Access advantages that guarantee Premium Entry check-in, safe and priority boarding. There is also no reason at all to avoid checking the extra baggage allowance for two regular size checked bags that's included in your flight number. On board, you will be able to sample a selection of high-quality cuisine cooked by a team of well-known chefs from the United States.",
-  //         },
-  //       ],
-  //     },
-  //     {
-  //       title: "In-Flight Entertainment",
-  //       description:
-  //         "United provides a wide variety of in-flight content on its flights. Passengers will verify the entertainment services will be available on their flight by reviewing the travel status details on their travel on the United Website. In-flight entertainment facilities can differ depending on the aircraft and the fare level of the reservation. You can connect to 'United Wi-Fi' and experience high-speed Broadband when you're on the move, but rates can vary based on the path you're on.",
-  //     },
-  //     {
-  //       title: "Food & Drinks",
-  //       description:
-  //         "United Airlines delivers different meal plans based on the direction you're going on. The airline also provides a variety of meals to meet a range of dietary needs, from organic to organic Asian cuisine, to children's dining, as well as cuisine based on medical and religious requirements. These meals must be arranged at least 24 hours prior to the actual departure time of the flight, which can be accomplished by contacting the airlines. The airline is selling a full flight cart containing alcoholic beverages (beer, wine and spirits), soft drinks and hot drinks. Economy passengers enjoy a free drink and First and Business Class passengers enjoy free tasty drinks on board, such as fine wines, beers, regional beer or champagne.",
-  //     },
-  //     {
-  //       title: "Baggage Policy",
-  //       description:
-  //         "The airline baggage policy is dependent on the cost of your flight reservation, but Basic Economy passengers are only required to carry one personal item on board. United Airlines needs small instruments to be used as carry-on luggage, whereas bigger instruments will be known as checked baggage.",
-  //     },
-  //   ],
-  // },
+  "cheap-flights-to-colombia-co": {
+    title: "Vuelos Baratos A Colombia",
+    description:
+      "¡Bienvenido a Colombia, un país de paisajes impresionantes, cultura vibrante y cálida hospitalidad! Ya sea que esté explorando las calles coloniales de Cartagena, caminando por las exuberantes selvas del Amazonas o saboreando los sabores del café colombiano en las tierras altas de los Andes, Colombia ofrece una experiencia de viaje inolvidable. En esta guía completa, profundizaremos en todo lo que necesita saber sobre la reserva de vuelos a Colombia con pasajebaratos.com como su socio de viajes de confianza.",
+    sections: [
+      {
+        title: "¿Por qué elegir Colombia?",
+        description:
+          "El atractivo de Colombia radica en su increíble diversidad, desde playas vírgenes hasta montañas cubiertas de nieve y todo lo demás. Belleza natural: explore los diversos paisajes de Colombia, desde la costa caribeña con sus playas de arena blanca y aguas turquesas hasta la selva amazónica llena de vida silvestre y las tierras altas andinas salpicadas de pintorescos pueblos coloniales. Riqueza Cultural: Sumérgete en la vibrante cultura de Colombia, desde el colorido arte callejero de Bogotá hasta los ritmos de salsa en Cali y los bailes tradicionales de las comunidades indígenas de la Sierra Nevada. Delicias gastronómicas: Pruebe los sabores de la cocina colombiana, desde abundantes guisos y carnes asadas hasta frutas tropicales y mariscos frescos, complementados con el mundialmente famoso café colombiano cultivado en exuberantes regiones cafetaleras.",
+      },
+      {
+        title: "El mejor momento para reservar vuelos a Colombia",
+        description:
+          "TEl tiempo es crucial al reservar vuelos a Colombia para garantizar que obtenga las mejores ofertas y disponibilidad. Consideraciones estacionales: Colombia experimenta dos estaciones principales: temporada seca (diciembre a marzo y julio a agosto) y temporada de lluvias (abril a junio y septiembre a noviembre). La mejor época para visitar depende de tus preferencias, ya sea que busques un clima soleado o paisajes exuberantes. Evite las horas pico de viaje: trate de evitar viajar durante los días festivos importantes, como Navidad y Semana Santa, así como en las temporadas turísticas pico, como julio y agosto, cuando los vuelos y el alojamiento tienden a ser más caros y abarrotados. .",
+        subsection: [
+          {
+            title: "Consejos para encontrar vuelos asequibles",
+            description:
+              "¿Viajas a Colombia con un presupuesto bajo? Siga estos consejos para encontrar vuelos asequibles sin sacrificar la comodidad ni la conveniencia. Reserve con anticipación: planifique con anticipación y reserve sus vuelos a Colombia al menos con unos meses de anticipación para aprovechar los descuentos por reserva anticipada y las tarifas promocionales. Fechas de viaje flexibles: Sea flexible con sus fechas de viaje para encontrar las mejores ofertas. Considere volar entre semana o durante las horas de menor actividad para obtener tarifas más bajas. Utilice sitios web de comparación de vuelos: utilice agencias de viajes en línea y sitios web de comparación de vuelos para comparar precios de varias aerolíneas y encontrar las tarifas más competitivas.",
+          },
+          {
+            title: "Conclusión",
+            description:
+              "Reservar vuelos a Colombia con pasajebaratos.com es el primer paso hacia una aventura inolvidable en este destino diverso y vibrante. Ya sea que esté explorando ruinas antiguas, relajándose en playas vírgenes o disfrutando de una deliciosa cocina, Colombia ofrece una gran cantidad de experiencias para cada viajero. Siga los consejos y recomendaciones de esta guía para planificar su viaje perfecto a Colombia y crear recuerdos que durarán toda la vida.",
+          },
+           
+           
+        ],
+      },
+       
+       
+    ],
+  },
 
-  // "spirit-airlines": {
-  //   title: "Spirit Airlines",
-  //   sections: [
-  //     {
-  //       title: "Overview",
-  //       description:
-  //         "Spirit Airlines is a low-cost international airline headquartered in Miramar, Florida. Spirit Airlines serves over 60 cities in the United States as well as regional destinations such as Latin and South America on a daily basis. The 'Ultra Low Cost' symbol represents the low cost of tickets. Travelers have the ability to choose which extras and premium choices they need, as well as any luggage allowance, on-board lunches and dinners, and seat preference, in addition to the standard price. Passengers can make reservations for Wide Front seats, which are wider seats with far more legroom located at the front of the plane, for an extra fee.",
-  //     },
-  //     {
-  //       title: "Travel Class",
-  //       description:
-  //         "The airline offers two categories of Economy Class seating: basic and luxury. The only difference between the two is the height of the seat and the placement of the tray.\n\nSpirit Airlines does not actually have any TV shows on its aircraft in order to conform with its motto 'Less Money, More Go.' Spirit Airlines also does not have in-flight entertainment on its airlines in order to keep costs low for its passengers; Spirit Airlines does not actually have any TV shows on its aircraft.\n\nFurthermore, the carrier offers low-cost high-speed Wi-Fi to its customers. Spirit Airlines offers a variety of meals that can be ordered with a debit or credit card on board. Food options include popcorn, almonds, cookies, and confectionery.",
-  //     },
-  //     {
-  //       title: "Policy on Baggage",
-  //       description:
-  //         "Individual object: the real product, which may be a handbag, a portable case, or a small bag, among other things. Not to surpass 18 x 14 x 8 inches (45 x 35 x 20 cm) in size, including handles and plates.\n\nCarry-on luggage: carry-on luggage with a handle and spikes that measures up to 22 x 18 x 10 inches (56 x 46 x 25 cm). If a carry-on bag cannot be carried safely on a particular flight, Spirit Airlines can allow it to fly as a checked bag.\n\nPacked Luggage: The baggage allowance had to be up to 62 linear inches (length + width + height; 158 cm) in length with grips and tires and up to 40 pounds in weight (18.1 kg of weight). Any baggage that exceeds or exceeds the weight limit is considered oversized/overweight and is subject to a reasonable fee.",
-  //     },
-  //     {
-  //       title: "Information on Check-In",
-  //       description:
-  //         "The airline will use the on-site Spirit Airlines online check-in service. Simply email your flight information and sign in online. Online check-in begins 24 hours before the scheduled departure date and concludes approximately one hour before the scheduled departure time. Travelers who are unable to check-in electronically or need human assistance will check-in at the airport and at desks. Display at least 2 hours before departure for domestic flights and at least 3 hours before departure for international flights to prepare for luggage check-in and drop-off.",
-  //     },
-  //   ],
-  // },
+  "cheap-flights-to-dallas-dal": {
+    title: "Vuelos Baratos A Dallas",
+    sections: [
+      {
+        title: "pasajebaratos.com es un buen lugar para comprar boletos de avión baratos a Dallas.",
+        description:
+          "¿Te gustaría recorrer la vibrante ciudad de Dallas? Para obtener boletos de avión baratos y disfrutar de un viaje inolvidable, use pasajebaratos.com. pasajebaratos.com hace que la planificación de su viaje a Dallas sea más fácil que nunca gracias a su interfaz fácil de usar, opciones económicas y recursos de viaje completos. Profundicemos en cómo usar pasajebaratos.com para reservar boletos de avión baratos a Dallas y maximizar su experiencia de viaje.",
+      },
+      {
+        title: "pasajebaratos.com te ayuda a encontrar el vuelo perfecto.",
+        description:
+          "pasajebaratos.com facilita la búsqueda del vuelo ideal a Dallas. El sitio web tiene una interfaz fácil de entender que facilita la navegación. Puede buscar vuelos según sus fechas de viaje preferidas, la ciudad de salida y la aerolínea que prefiera. Además, las capacidades de filtrado y búsqueda avanzada lo ayudan a limitar sus opciones para encontrar las mejores ofertas de vuelos que se ajusten a sus necesidades.",
+      },
+      {
+        title: "La mejor hora para comprar vuelos a Dallas",
+        description:
+          "El tiempo es crucial cuando se trata de reservar vuelos baratos a Dallas. Si comprende las tendencias estacionales y reserva en el momento adecuado, puede ahorrar significativamente en su pasaje aéreo. Generalmente, reservar sus billetes de avión con mucha antelación o aprovechar las ofertas de última hora puede ayudarle a conseguir los mejores precios. pasajebaratos.com ofrece información sobre los mejores momentos para reservar vuelos a Dallas, asegurándose de que aproveche al máximo su inversión.",
+      },
+      {
+        title: "Opciones económicas",
+        description:
+          "La asequibilidad es fundamental en pasajebaratos.com. La plataforma tiene como objetivo brindar opciones económicas para los viajeros sin sacrificar la calidad. pasajebaratos.com puede satisfacer sus necesidades si busca boletos de lujo o de bajo costo. Puede encontrar boletos de avión baratos a Dallas que se ajusten a su presupuesto y le permitan gastar más dinero en las atracciones y experiencias de la ciudad con ofertas exclusivas, descuentos y ofertas especiales.",
+      },
+    ],
+  },
 
-  // "frontier-airlines": {
-  //   title: "Frontier Airlines",
-  //   sections: [
-  //     {
-  //       title: "Welcome to adsholidays",
-  //       description:
-  //         "Welcome to adsholidays, your trusted online travel agency (OTA) based in the USA. We specialize in providing seamless flight booking services for one of the leading airlines in the region, Frontier Airlines. Whether you're planning a business trip or a well-deserved vacation, we are here to assist you in finding the best flight fares and ensuring a hassle-free travel experience.",
-  //     },
-  //     {
-  //       title: "About Frontier Airlines",
-  //       description:
-  //         "Frontier Airlines is renowned for its extensive domestic and international network, offering a wide range of destinations at competitive prices. As an authorized partner of Frontier Airlines, adsholidays brings you exclusive access to their flights, allowing you to explore exciting destinations while saving on your travel expenses.",
-  //     },
-  //     {
-  //       title: "Easy Booking Process",
-  //       description:
-  //         "Booking a flight through adsholidays is a breeze. Our user-friendly website and mobile app provide you with a seamless booking experience. Simply enter your travel details, including your departure and arrival cities, preferred dates, and the number of passengers, and our advanced search engine will instantly display a list of available flights.",
-  //     },
-  //     {
-  //       title: "Dedicated Team of Travel Experts",
-  //       description:
-  //         "Our dedicated team of travel experts works tirelessly to curate the best flight options for you. We take pride in offering a comprehensive range of flight fares, from budget-friendly options to premium class tickets, ensuring that you can find a flight that suits your preferences and budget. With adsholidays, you can easily compare different flight options, including departure times, layovers, and prices, to make an informed decision.",
-  //     },
-  //     {
-  //       title: "Flexible Travel Options",
-  //       description:
-  //         "At adsholidays, we understand that flexibility is crucial when it comes to travel plans. That's why we provide you with various fare options, including refundable and non-refundable tickets, as well as the ability to modify your booking if necessary. Our customer support team is available 24/7 to assist you with any queries or changes you may have regarding your Frontier Airlines booking.",
-  //     },
-  //     {
-  //       title: "Additional Services",
-  //       description:
-  //         "As a valued customer, we also offer additional services to enhance your travel experience. These include hotel reservations, car rentals, travel insurance, and more. With adsholidays, you can conveniently plan your entire trip in one place, saving you time and effort.",
-  //     },
-  //     {
-  //       title: "Why Choose adsholidays for Frontier Airlines Bookings",
-  //       description:
-  //         "When you choose adsholidays for your Frontier Airlines bookings, you can expect:\n\n- Competitive Prices: We strive to offer the best flight fares, ensuring you get the most value for your money.\n- Extensive Network: Frontier Airlines' vast network allows you to explore a wide range of destinations across the USA and beyond.\n- Easy Booking Process: Our intuitive platform makes it simple to search, compare, and book flights, saving you time and effort.\n- Dedicated Support: Our friendly customer support team is available around the clock to assist you with any travel-related queries or concerns.\n- Additional Services: Take advantage of our comprehensive range of travel services, including hotel reservations, car rentals, and travel insurance.\n\nExperience the convenience and affordability of booking your Frontier Airlines flights with adsholidays. Trust us to provide you with a seamless travel experience, helping you reach your destination with ease. Start planning your next adventure today and let adsholidays take care of your travel needs.",
-  //     },
-  //   ],
-  // },
+  "cheap-flights-to-new-jersey-nj": {
+    title: "Vuelos Baratos A Nueva Jersey",
+    sections: [
+      {
+        title: "pasajebaratos.com es un buen lugar para comprar boletos de avión baratos a Dallas.",
+        description:
+          "Nueva Jersey, el Estado Jardín, es un destino diverso y emocionante que combina ciudades vibrantes, paisajes pintorescos y una rica historia para ofrecer a los viajeros un destino diverso y emocionante. Nueva Jersey tiene algo para todos, ya sea que esté explorando las bulliciosas calles de Newark, tomando el sol en la costa de Jersey o sumergiéndose en el encanto colonial. En esta guía completa, hablaremos sobre todo lo que necesita saber sobre reservar vuelos a Nueva Jersey con pasajebaratos.com, su proveedor de viajes confiable.",
+      },
+      {
+        title: "¿Por qué Nueva Jersey es la mejor opción?",
+        description:
+          "Puede que Nueva Jersey sea pequeña en tamaño, pero tiene una gran potencia en cuanto a atracciones y experiencias se refiere.",
+      },
+      {
+        title: "Cerca de las principales ciudades",
+        description:
+          "Nueva Jersey ofrece fácil acceso a restaurantes, tiendas y atracciones culturales de primer nivel porque está cerca de las principales ciudades como Nueva York y Filadelfia.",
+      },
+      {
+        title: "Belleza escénica",
+        description:
+          "OLos paisajes diversos de Nueva Jersey ofrecen una variedad de oportunidades para la recreación y el descanso al aire libre, desde las hermosas playas de la costa de Jersey hasta las colinas de Delaware Water Gap.",
+      },
+      {
+        title: "Rica cultura e historia",
+        description:
+          "Sumérgete en la rica historia y cultura de Nueva Jersey con visitas a sitios históricos como Ellis Island, la Campana de la Libertad y el campus de la Universidad de Princeton.",
+      },
+      {
+        title: "Las aerolíneas principales que vuelan a Nueva Jersey",
+        description:
+          "En Nueva Jersey, hay muchos aeropuertos importantes, como el Aeropuerto Internacional Newark Liberty (EWR), el Aeropuerto Internacional de Atlantic City (ACY) y el Aeropuerto Trenton-Mercer (TTN), y muchas aerolíneas vuelan a y desde destinos de todo el mundo.",
+      },
+      {
+        title: "Conclusión",
+        description:
+          "El primer paso hacia una experiencia inolvidable en el Estado Jardín es reservar vuelos a Nueva Jersey con pasajebaratos.com. Nueva Jersey tiene algo para cada viajero, ya sea que esté explorando lugares históricos, tomando el sol en la costa de Jersey o experimentando la energía de las ciudades vibrantes. Para organizar su viaje ideal a Nueva Jersey y crear recuerdos que durarán toda la vida, siga los consejos y recomendaciones de esta guía.",
+      },
+    ],
+  },
 
   // "copa-airlines": {
   //   title: "Copa Airlines",

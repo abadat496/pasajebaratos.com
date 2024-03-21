@@ -37,17 +37,17 @@ const Header = ({langData}) => {
 
   return (
     <>
-      <div
+      {/* <div
         style={{
           display: `${width > 767 || !query?.airline ? "none" : "block"}`,
         }}
       >
         <MobileSection langData={langData} />
-      </div>
+      </div> */}
       <header
-        style={{
-          display: `${width > 767 || !query?.airline ? "block" : "none"}`,
-        }}
+        // style={{
+        //   display: `${width > 767 || !query?.airline ? "block" : "none"}`,
+        // }}
       >
 
 <div className="fixed call-bg d-block d-md-block d-lg-none">

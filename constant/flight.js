@@ -228,6 +228,39 @@ const currentFlights = [
     commonName: "airline-reservation",
     rout: "airline-reservation",
   },
+  {
+    type: "airline",
+    iataCode: null,
+    icaoCode: "VOI",
+    businessName: "Vuelos Baratos A México",
+    commonName: "cheap-flights-to-mexico-mx",
+    rout: "cheap-flights-to-mexico-mx",
+  },
+  {
+    type: "airline",
+    iataCode: null,
+    icaoCode: "VOI",
+    businessName: "Vuelos Baratos A Colombia",
+    commonName: "cheap-flights-to-colombia-co",
+    rout: "cheap-flights-to-colombia-co",
+  },
+  {
+    type: "airline",
+    iataCode: null,
+    icaoCode: "VOI",
+    businessName: "Vuelos Baratos A Dallas",
+    commonName: "cheap-flights-to-dallas-dal",
+    rout: "cheap-flights-to-dallas-dal",
+  },
+  {
+    type: "airline",
+    iataCode: null,
+    icaoCode: "VOI",
+    businessName: "Vuelos Baratos A Nueva Jersey",
+    commonName: "cheap-flights-to-new-jersey-nj",
+    rout: "cheap-flights-to-new-jersey-nj",
+  },
+
 ];
 
 const addRoutesToFlights = (airlines) => {
