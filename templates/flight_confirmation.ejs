@@ -279,9 +279,11 @@
                                                             <strong>Return</strong>
                                                             <% } %>
 
-                                                                <%= itinerary.segments[0].departure.date %>
+                                                                <%= itinerary.segments[0].departure.at %>
                                             </strong>
-                                            <span className="float-end total-trip-duration"><strong> Total Trip Duration: </strong><i className='far fa-clock'></i> <strong> <%= itinerary.duration.replace('PT', '') %></strong> </span></p></p>
+                                            <span className="float-end total-trip-duration"><strong> Total Trip Duration: </strong><i className='far fa-clock'></i> <strong> <%= itinerary.duration.replace('PT', '') %></strong> </span>
+                                            
+                                        </p></p>
                                     </div>
                                     <% itinerary.segments.forEach(function(segment, m) { %>
                                     <div className="row">
