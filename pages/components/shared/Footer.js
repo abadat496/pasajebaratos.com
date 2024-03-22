@@ -44,7 +44,7 @@ const Footer = ({ langData }) => {
                  <li><a href={`tel:${phoneNumber}`}><i className="fa-solid fa-phone-volume"></i> {phoneNumber}</a></li>
                  <li><a href="mailto:Support@flyhelpdesk.com"><i className="fa-regular fa-envelope"></i> Support@flyhelpdesk.com</a></li>
 
-                 <li><i className="fa-solid fa-map-location-dot"></i> House 326-C First Floor Okhla main road South Delhi , New Delhi 110025</li>
+                 {/* <li><i className="fa-solid fa-map-location-dot"></i> House 326-C First Floor Okhla main road South Delhi , New Delhi 110025</li> */}
               </ul>
               
             </div>
