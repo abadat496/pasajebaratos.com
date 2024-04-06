@@ -88,7 +88,7 @@ const Contact = () => {
 
           <div className="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 cont-right">
                <ul>
-                {/* <li>
+                <li>
                   <div className="cont-icon">
 
                     <i className="fa fa-map-marker" aria-hidden="true"></i>
@@ -96,10 +96,10 @@ const Contact = () => {
                   <div className="cont-text">
                     <h6>Ubicación de la compañía</h6>
                     <p className="mb-0">
-                    House 326-C First Floor Okhla main road South Delhi , New Delhi 110025
+                    306 alvin road , Glen Col - 4532
                     </p>
                   </div>
-                </li> */}
+                </li>
                 <li>
                   <div className="cont-icon">
                     <i className="fa fa-phone" aria-hidden="true"></i>
