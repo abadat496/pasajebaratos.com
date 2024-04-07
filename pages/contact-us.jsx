@@ -96,7 +96,7 @@ const Contact = () => {
                   <div className="cont-text">
                     <h6>Ubicación de la compañía</h6>
                     <p className="mb-0">
-                    306 alvin road , Glen Col - 4532
+                    306 alvin road , Glen Col - 4532  USA
                     </p>
                   </div>
                 </li>
