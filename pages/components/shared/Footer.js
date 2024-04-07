@@ -143,7 +143,7 @@ const Footer = ({ langData }) => {
         <div className="container-lg footer-border">
           <div className="row">
             <div className="col-12 col-lg-12">
-              <p>Derechos de autor &copy; 2024 pasajebaratos.com. Reservados todos los derechos. (  Skyflydeals Private Limited )</p>
+              <p>Derechos de autor &copy; 2024 pasajebaratos.com. Reservados todos los derechos. (PARENT COMPANY :  Skyflydeals Private Limited - skyflydeals.com)</p>
             </div>  
             
 
