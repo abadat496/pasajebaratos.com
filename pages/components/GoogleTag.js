@@ -20,7 +20,7 @@ const GoogleTag = () => {
         "marginRight": 10,
         "btnPosition": "right",
         "whatsAppNumber": "+18585854484",
-        "welcomeMessage": "”🌟 Welcome to Travel Desk ! 🌟 Get set to discover amazing deals ? Explore Flights & Hotels hassle-free with us! ✈️🏨  Tab to start your journey! 🌍✨",
+        "welcomeMessage": "”★ Welcome to Travel Desk ! ★ Get set to discover amazing deals ? Explore Flights & Hotels hassle-free with us! ✈  Tab to start your journey! 🌍",
         "zIndex": 999999,
         "btnColorScheme": "light"
       };
