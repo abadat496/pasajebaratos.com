@@ -42,7 +42,7 @@ const Footer = ({ langData }) => {
             <h6>{langData?.contactInfo}</h6>
               <ul>
                  <li><a href={`tel:${phoneNumber}`}><i className="fa-solid fa-phone-volume"></i> {phoneNumber}</a></li>
-                 <li><a href="mailto:Support@flyhelpdesk.com"><i className="fa-regular fa-envelope"></i> Support@flyhelpdesk.com</a></li>
+                 <li><a href="mailto:tickets@flightservicedesk.com"><i className="fa-regular fa-envelope"></i> tickets@flightservicedesk.com</a></li>
 
                  <li><i className="fa-solid fa-map-location-dot"></i> 132 Lake St, Kirkland, Washington, 98033  USA</li>
               </ul>
