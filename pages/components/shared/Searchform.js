@@ -146,10 +146,10 @@ const SearchForm = ({
             <div className="marg-top">
               <h1>
                 {title ||
-                  "Llama y consigue un 70% de descuento"}
+                  "Ofertas de Vuelos Baratos disponible"}
               </h1>
               {/* <h4 className="mt-3 mb-3">Llama y consigue un 70% de descuento</h4> */}
-              
+              <div className="contactno"><a href={`tel:${langData?.phoneNumber || phoneNumber}`} className="banner-contactnav">{langData?.phoneNumber || phoneNumber}</a></div>
             </div>
 
             {showtab && width < 768 && (

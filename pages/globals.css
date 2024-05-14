@@ -3377,6 +3377,19 @@ label.form-check-label {
 .cont-right ul li {width: 100%;}
 .phone-number ul {text-align: left;}
 .hotel h2 {font-size: 18px;}
-
+.banner-contactnav {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  padding: 10px 21px 13px;
+  margin: auto;
+  background: #fe4300;
+  box-shadow: 0 5px 5px #00000050;
+  color: #fff;
+  font-size: 28px;
+  font-weight: 900;
+  border-radius: 50px;
+  text-shadow: 0 3px 3px #00000050;
+}
 
 }
