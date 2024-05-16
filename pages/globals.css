@@ -769,6 +769,11 @@ main {
   margin: 0px !important;
   padding: 0px;
 }
+.bking {
+  font-size: 21px;
+  font-weight: bold;
+  color: #FF5722;
+}
 
 .footer-social ul li {
   display: inline-block;

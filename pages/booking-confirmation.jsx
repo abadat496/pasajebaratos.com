@@ -127,7 +127,7 @@ const Confirmation = () => {
                   </div>
                 </div>
                 <div className="row">
-                <p>&quot;Descubra nuestras tarifas exclusivas llamando al número no publicado. ¡Llame ahora! <strong className="blink">{phoneNumber}</strong>&quot;</p>
+                <p>&quot;Descubra nuestras tarifas exclusivas llamando al número no publicado. ¡Llame ahora! <br></br><strong className="blink bking">{phoneNumber}</strong>&quot;</p>
                   <h3>Your booking request received</h3>
                   <div className="col-12 mt-3 mb-3 tra-tab">
                     <p>
@@ -136,7 +136,7 @@ const Confirmation = () => {
                         {phoneNumber} or email at {contactEmail}
                       </strong>
                       <br />
-                      <p>&quot;Descubra nuestras tarifas exclusivas llamando al número no publicado. ¡Llame ahora! <strong className="blink">{phoneNumber}</strong>&quot;</p>
+                      <p>&quot;Descubra nuestras tarifas exclusivas llamando al número no publicado. ¡Llame ahora!<br></br> <strong className="blink bking">{phoneNumber}</strong>&quot;</p>
                     </p>
                   </div>
                   <p>
