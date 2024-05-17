@@ -4,7 +4,7 @@ export const amadeusClientSecret = "XYcA6WWVZTuAoJqS";
 
 // Throough which we will send the mail.
 export const smtp_usename = "tickets@flightservicedesk.com";
-export const smtp_password = "vqvvaqcznwxdhdnm";
+export const smtp_password = "nliabdohuhcwiyzu";
 export const smtp_type = "Gmail";
 export const from_Name = "pasajebaratos";
 export const from_email = "tickets@flightservicedesk.com";
