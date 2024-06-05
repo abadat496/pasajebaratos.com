@@ -12,9 +12,12 @@ const Undercuttingbanner = () => {
     setShowUndercutting(false);
   };
 
+  
+
   useEffect(() => {
-    setTimeout(() => {setShowUndercutting(true);}, 3000)
+    setInterval(() => {setShowUndercutting(true);}, 3000)
   }, [])
+ 
 
   return (
      
