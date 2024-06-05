@@ -5,7 +5,7 @@ const GoogleTag = () => {
   useEffect(() => {
     const script = document.createElement("script");
     const script2 = document.createElement("script");
-    script.src = "https://www.googletagmanager.com/gtag/js?id=AW-16451480682";
+    script.src = "https://www.googletagmanager.com/gtag/js?id=G-1DBVNSX5RX";
     script.async = true;
     // script2.src = "https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js";
     // script2.async = true;
@@ -40,7 +40,7 @@ const GoogleTag = () => {
       }
       gtag("js", new Date());
 
-      // gtag("config", "G-L7W0F3WF5V");
+      gtag("config", "G-1DBVNSX5RX");
       gtag("config", "AW-16451480682");
 
       gtag('config', 'AW-16484054720/0Q_-CIK0v5sZEMDtmrQ9', {
