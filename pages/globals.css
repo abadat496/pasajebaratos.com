@@ -147,7 +147,7 @@ button:focus:not(:focus-visible) {
   padding: 10px 20px;
   position: relative;
   right: -47px;
-  top: -3px;
+  top: 37px;
 }
 
 span {
@@ -722,6 +722,11 @@ main {
 .footer-bg ul {
   margin-left: 0px !important;
   padding-left: 0px!important;
+}
+
+
+.pupupnone {
+  display: none;
 }
 
 .footer-bg ul li {
@@ -2414,7 +2419,7 @@ label.form-check-label {
   margin: 20px;
 }
 .custompopup .modal-footer.border-0 {
-  margin-top: -40px;
+  margin-top: -80px;
 }
 
 .bannerPopup.pb-4 {
@@ -3226,8 +3231,7 @@ label.form-check-label {
 
   .class-modal {
     display: block !important;
-    height: 100vh;
-  }
+   }
 
   button#myBtn {
     float: right;
@@ -3311,10 +3315,10 @@ label.form-check-label {
   }
 
   .exbt_cl h5 {
-    font-size: 23px;
+    font-size: 19px;
     color: #fff;
     background: #ff6e03;
-    width: 95%;
+    width: 100%;
     margin: 0 auto;
     padding: 8px 5px 8px 70px;
     position: relative;
@@ -3343,7 +3347,7 @@ label.form-check-label {
     left: 10px;
     top: 7px;
     text-align: center;
-    padding: 14px;
+    padding: 10px;
   }
 
   .footer_tp_cont img {
@@ -3395,6 +3399,10 @@ label.form-check-label {
   font-weight: 900;
   border-radius: 50px;
   text-shadow: 0 3px 3px #00000050;
+}
+
+.pupupnone {
+  display: block;
 }
 
 }

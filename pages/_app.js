@@ -11,6 +11,7 @@ import { useRouter } from "next/router";
 import { getLanguage } from "@/getLang";
 import { useEffect, useState } from "react";
 import Undercuttingbanner from "./components/shared/Undercuttingbanner";
+import Homepop from "./components/shared/homepopup";
 
 function MyApp({ Component, pageProps }) {
   const router = useRouter();
@@ -30,7 +31,7 @@ function MyApp({ Component, pageProps }) {
       <Component {...pageProps} />
       <Footer langData={langData} />
       <SearchModal />
-      <Undercuttingbanner/>
+      <Homepop />
       <GoogleTag />
     </DataProvider>
   );
