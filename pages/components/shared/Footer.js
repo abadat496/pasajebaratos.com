@@ -148,7 +148,7 @@ const Footer = ({ langData }) => {
               <p>
                 Derechos de autor &copy; 2024 pasajebaratos.com. Reservados
                 todos los derechos. (PARENT COMPANY : Skylook Travels LLC
-                Private Limited - Skylook Travels LLC.com)
+                Private Limited - Skylook Travels LLC )
               </p>
             </div>
           </div>
