@@ -24,7 +24,7 @@ const GoogleTag = () => {
     //     "zIndex": 999999,
     //     "btnColorScheme": "light"
     //   };
-  
+
     //   if (typeof _waEmbed === 'function') {
     //     _waEmbed(wa_btnSetting);
     //   }
@@ -43,9 +43,8 @@ const GoogleTag = () => {
       gtag("config", "G-1DBVNSX5RX");
       gtag("config", "AW-16451480682");
 
-      gtag('config', 'AW-16484054720/0Q_-CIK0v5sZEMDtmrQ9', {
-        'phone_conversion_number': '+1 855 585 2324'
-    
+      gtag("config", "AW-16484054720/0Q_-CIK0v5sZEMDtmrQ9", {
+        phone_conversion_number: "+1 888-338-2857",
       });
     };
 
