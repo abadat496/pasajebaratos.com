@@ -95,7 +95,7 @@ const About = () => {
 
           <h2>
             As a travel agency we try to help air travelers for book, manage,
-            cancel their flight
+            cancel their flight.
           </h2>
           <h5>
             <i>Best search terms to find us on google search engine</i>
