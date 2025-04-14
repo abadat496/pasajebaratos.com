@@ -40,17 +40,17 @@ const Footer = ({ langData }) => {
                     <i className="fa-solid fa-phone-volume"></i> {phoneNumber}
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="mailto:tickets@flightservicedesk.com">
                     <i className="fa-regular fa-envelope"></i>{" "}
                     tickets@flightservicedesk.com
                   </a>
-                </li>
+                </li> */}
 
-                <li>
+                {/* <li>
                   <i className="fa-solid fa-map-location-dot"></i> 30 N Gould St
                   Ste R Sheridan, WY 82801 USA
-                </li>
+                </li> */}
               </ul>
             </div>
 
@@ -147,7 +147,7 @@ const Footer = ({ langData }) => {
             <div className="col-12 col-lg-12">
               <p>
                 Derechos de autor &copy; 2024 pasajebaratos.com. Reservados
-                todos los derechos. (PARENT COMPANY : Skylook Travels LLC )
+                todos los derechos.
               </p>
             </div>
           </div>
