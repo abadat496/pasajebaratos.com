@@ -88,12 +88,12 @@ const Contact = () => {
                   <div className="cont-icon">
                     <i className="fa fa-map-marker" aria-hidden="true"></i>
                   </div>
-                  <div className="cont-text">
+                  {/* <div className="cont-text">
                     <h6>Ubicación de la compañía</h6>
                     <p className="mb-0">
                       30 N Gould St Ste R Sheridan, WY 82801 USA
                     </p>
-                  </div>
+                  </div> */}
                 </li>
                 <li>
                   <div className="cont-icon">
@@ -106,7 +106,7 @@ const Contact = () => {
                     </p>
                   </div>
                 </li>
-                <li>
+                {/* <li>
                   <div className="cont-icon">
                     <i className="fa fa-envelope" aria-hidden="true"></i>
                   </div>
@@ -116,7 +116,7 @@ const Contact = () => {
                       <a href={`mailto:${contactEmail}`}>{contactEmail}</a>
                     </p>
                   </div>
-                </li>
+                </li> */}
               </ul>
             </div>
 
