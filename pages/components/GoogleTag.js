@@ -25,7 +25,7 @@ const GoogleTag = () => {
       gtag("config", "AW-16451480682");
 
       gtag("config", "AW-16484054720/0Q_-CIK0v5sZEMDtmrQ9", {
-        phone_conversion_number: "+1 (888) 338-6436",
+        phone_conversion_number: "+1 (855) 586-2173",
       });
     };
 
